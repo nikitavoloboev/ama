@@ -1,11 +1,16 @@
-# Ask Me Anything
+# Ask Me Anything 💬
 
-##[ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+## [ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I do love reading AMA's done by other people and I love answering questions whatever those questions may be.
+# About me 👋
 
-I am currently studying Computer Science and am very interested in application development as I really [love](https://github.com/nikitavoloboev/my-mac-os) well made appliations and tools. I have two app ideas that I am really excited to build and share with the world thus I am learning Swift and what it means to develop for iOS and macOS as I most often prefer native apps over web applications.
+I love reading AMA's [done by other people](https://github.com/sindresorhus/amas) and I love answering questions whatever those questions may be.
 
+I am currently focused on providing [most efficient study plans](https://github.com/nikitavoloboev/knowledge-map) on learning any topic on Earth as an interactive Mind Map that all can explore and contribute to. 
+
+I am also building [a search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps. 
+
+I love [macOS and productivity](https://github.com/nikitavoloboev/my-mac-os) and I love working on projects and new ideas.
 
 ### Guidelines
 
