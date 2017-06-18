@@ -12,7 +12,7 @@ I am also building [a search engine](https://github.com/nikitavoloboev/knowledge
 
 I love [macOS and productivity](https://github.com/nikitavoloboev/my-mac-os) and I love working on projects and new ideas.
 
-### Guidelines
+### Guidelines 📕
 
 - check if your question hasn't already been answered
 - use a succinct title and description
