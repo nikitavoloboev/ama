@@ -1,8 +1,7 @@
-# Ask Me Anything 💬
+<h1 align="center">Ask Me Anything 💬</h1>
+<h2 align="center"><a href="../../issues/new"> ask a question </a>  or <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc"> read questions </a></h2>
 
-## [ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
-
-# About me 👋
+<h1 align="center"> About me 👋 </h1>
 
 I love reading AMA's [done by other people](https://github.com/sindresorhus/amas) and I love answering questions whatever those questions may be.
 
@@ -12,13 +11,14 @@ I am also building [a search engine](https://github.com/nikitavoloboev/knowledge
 
 I love [macOS and productivity](https://github.com/nikitavoloboev/my-mac-os) and I love working on projects and new ideas.
 
-### Guidelines 📕
+<h1 align="center"> Guidelines 📕 </h1>
 
 - check if your question hasn't already been answered
 - use a succinct title and description
 - be nice :)
 
-### Links
+
+<h1 align="center"> Links 🔗</h1>
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
