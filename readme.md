@@ -5,11 +5,9 @@
 
 I love reading AMA's [done by other people](https://github.com/sindresorhus/amas) and I love answering questions whatever those questions may be.
 
-I am currently focused on providing [most efficient study plans](https://github.com/learn-anything/maps) on learning any topic on Earth as an interactive Mind Map that all can explore and contribute to. 
+I am currently focused on building [Learn Anything](https://learn-anything.xyz/) which is an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
 
-We are also building [a search engine](https://github.com/learn-anything/learn-anything) for all these mind maps. 
-
-I love [macOS and productivity](https://github.com/nikitavoloboev/my-mac-os) and I love working on projects and new ideas.
+And I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) things I have built.
 
 <h1 align="center"> Guidelines 📕 </h1>
 
