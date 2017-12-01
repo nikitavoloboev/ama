@@ -9,9 +9,9 @@ I am currently focused on building [Learn Anything](https://learn-anything.xyz/)
 And I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) things I have built.
 
 ## Guidelines 
-- check if your question hasn't already been answered
-- use a succinct title and description
-- be nice :)
+- Check if your question hasn't already been answered
+- Use a succinct title and description
+- Be nice 🙂 
 
 ## Links 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
