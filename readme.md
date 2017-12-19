@@ -6,11 +6,13 @@ I love reading AMA's [done by other people](https://github.com/sindresorhus/amas
 
 I am currently focused on building [Learn Anything](https://learn-anything.xyz/) which is an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
 
-And I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) things I have built.
+And I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built.
+
+If you have any questions that you want to ask me, [please do](../../issues/new). 💜
 
 ## Guidelines 
-- Check if your question hasn't already been answered
-- Use a succinct title and description
+- Check if your question hasn't already been answered.
+- Use a succinct title and description.
 - Be nice 🙂 
 
 ## Links 
