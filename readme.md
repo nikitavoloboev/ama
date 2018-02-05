@@ -24,3 +24,4 @@ If you have any questions that you want to ask me, [please do](../../issues/new)
 Some other AMA's I really liked.
 - [Suz Hinton](https://hashnode.com/ama/with-suz-hinton-cjd5rqtjl021jyrwtzv8uvgva) - Has an awesome [Twitch](https://www.twitch.tv/noopkat) stream.
 - [Sindre Sorhus](https://github.com/sindresorhus/ama) - Awesome dev. He also popularised this whole GitHub AMA thing.
+- [Artem Sapegin](https://github.com/sapegin/ama) - Does awesome front end things.
