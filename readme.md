@@ -20,7 +20,7 @@ If you have any questions that you want to ask me, [please do](../../issues/new)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-## My Favourite AMA's
+## Favourite AMA's
 Some other AMA's I really liked.
 - [Suz Hinton](https://hashnode.com/ama/with-suz-hinton-cjd5rqtjl021jyrwtzv8uvgva) - Has an awesome [Twitch](https://www.twitch.tv/noopkat) stream.
 - [Sindre Sorhus](https://github.com/sindresorhus/ama) - Awesome dev. He also popularised this whole GitHub AMA thing.
