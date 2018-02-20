@@ -1,5 +1,6 @@
 # Ask Me Anything
 ## [Ask a Question](../../issues/new) or [Read Questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+**Anything means anything.** Work, programming, tech, personal life.. Whatever you want to know, this is the place to ask!
 
 ## About me
 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
@@ -11,9 +12,11 @@ And I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/
 If you have any questions that you want to ask me, [please do](../../issues/new). 💜
 
 ## Guidelines
-- Check if your question hasn't already been answered.
-- Use a succinct title and description.
-- Be nice 🙂
+- Ensure your question hasn't already been answered.
+- Use succinct title and description.
+- Bugs & feature requests should be opened on the relevant issue tracker.
+- Support questions are better asked on Stack Overflow.
+- Be civil and polite.
 
 ## Links
 - [Read more AMAs](https://github.com/sindresorhus/amas)
