@@ -1,12 +1,12 @@
-# Ask Me Anything 💬
+# Ask Me Anything
 ## [Ask a Question](../../issues/new) or [Read Questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 ## About me
-I love reading AMA's [done by other people](https://github.com/sindresorhus/amas) and I love answering questions whatever those questions may be.
+I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-I am currently focused on building [Learn Anything](https://learn-anything.xyz/) which is an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
+I am currently building [Learn Anything](https://learn-anything.xyz/) which is an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
 
-And I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built.
+And I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) and sharing what I know in my [blog](https://medium.com/@NikitaVoloboev) and in my [wiki](https://wiki.nikitavoloboev.xyz).
 
 If you have any questions that you want to ask me, [please do](../../issues/new). 💜
 
