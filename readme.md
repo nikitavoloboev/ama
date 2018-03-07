@@ -5,7 +5,7 @@
 ## About me
 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-I am currently building [Learn Anything](https://learn-anything.xyz/), an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
+I am currently building [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
 
 And I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) and sharing what I know in my [blog](https://medium.com/@NikitaVoloboev) and in my [wiki](https://wiki.nikitavoloboev.xyz).
 
@@ -25,5 +25,5 @@ If you have any questions that you want to ask me, [please do](../../issues/new)
 
 ## Favourite AMA's
 Some other AMA's I really liked.
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Awesome dev. He also popularised this whole GitHub AMA thing.
-- [Artem Sapegin](https://github.com/sapegin/ama) - Does awesome front end things.
+- [Sindre Sorhus](https://github.com/sindresorhus/ama#readme) - Awesome dev. He also popularised this whole GitHub AMA thing.
+- [Artem Sapegin](https://github.com/sapegin/ama#readme) - Does awesome front end things.
