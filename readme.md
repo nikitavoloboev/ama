@@ -9,7 +9,7 @@ I am currently building [Learn Anything](https://learn-anything.xyz), an [Open S
 
 And I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) and sharing what I know in my [blog](https://medium.com/@NikitaVoloboev) and in my [wiki](https://wiki.nikitavoloboev.xyz).
 
-If you have any questions that you want to ask me, [please do](../../issues/new). 💜
+If you have any questions that you want to ask me, [please ask](../../issues/new). 💜
 
 ## Guidelines
 - Ensure your question hasn't already been answered.
