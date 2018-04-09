@@ -3,11 +3,11 @@
 **Anything means anything.** Work, programming, tech, personal life.. Whatever you want to know, this is the place to ask!
 
 ## About me
-I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
+I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things.
 
-I am currently building [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website that tries to organise world's knowledge and provide study plans for learning anything in the most efficient way possible.
+Currently making [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) for learning any topic on Earth as fast as possible.
 
-And I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) and sharing what I know in my [blog](https://medium.com/@NikitaVoloboev) and in my [wiki](https://wiki.nikitavoloboev.xyz).
+I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) and sharing what I know in my [blog](https://medium.com/@NikitaVoloboev) and [wiki](https://wiki.nikitavoloboev.xyz).
 
 If you have any questions that you want to ask me, [please ask](../../issues/new). 💜
 
