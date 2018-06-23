@@ -25,6 +25,6 @@ If you have any questions that you want to ask me, [please ask](../../issues/new
 
 ## Favourite AMA's
 Some other AMA's I loved.
-- [Sindre Sorhus](https://github.com/sindresorhus/ama#readme) - Awesome dev. He also popularised this whole GitHub AMA thing.
+- [Sindre Sorhus](https://github.com/sindresorhus/ama#readme) - Awesome dev. He also popularized this whole GitHub AMA thing.
 - [Artem Sapegin](https://github.com/sapegin/ama#readme) - Does awesome front end things.
 - [Kent C. Dodds](https://github.com/kentcdodds/ama#readme) - Does awesome React things.
