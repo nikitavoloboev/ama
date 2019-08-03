@@ -12,7 +12,7 @@ Currently building [Learn Anything](https://learn-anything.xyz), an [open source
 
 I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) and sharing what I know in my [blog](https://medium.com/@nikitavoloboev) and [wiki](https://wiki.nikitavoloboev.xyz).
 
-If you have any questions that you want to ask me, [please ask](../../issues/new). 💜
+If you have any questions that you want to ask me, [please ask](../../issues/new). Do search [existing issues](../../issues) before asking. 💜
 
 ## Guidelines
 
