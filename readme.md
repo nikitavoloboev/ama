@@ -10,7 +10,7 @@ I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki
 
 Currently building [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything) website for learning any topic on Earth as fast as possible.
 
-I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github) and sharing what I know in my [blog](https://medium.com/@nikitavoloboev) and [wiki](https://wiki.nikitavoloboev.xyz).
+I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github) and sharing what I know in my [blog](https://wiki.nikitavoloboev.xyz/sharing/my-articles) and [wiki](https://wiki.nikitavoloboev.xyz).
 
 If you have any questions that you want to ask me, [please ask](../../issues/new). ♥️
 
@@ -30,8 +30,6 @@ If you have any questions that you want to ask me, [please ask](../../issues/new
 
 ## Favorite AMA's
 
-Some other AMA's I loved.
-
-- [Sindre Sorhus](https://github.com/sindresorhus/ama#readme) - Awesome dev. He also popularized this whole GitHub AMA thing.
-- [Artem Sapegin](https://github.com/sapegin/ama#readme) - Does awesome front end things.
-- [Kent C. Dodds](https://github.com/kentcdodds/ama#readme) - Does awesome React things.
+- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Awesome dev. He also popularized this whole GitHub AMA thing.
+- [Artem Sapegin](https://github.com/sapegin/ama) - Does awesome front end things.
+- [Kent C. Dodds](https://github.com/kentcdodds/ama) - Does awesome React things.
