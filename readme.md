@@ -14,7 +14,7 @@ You can also [ask questions here](../../issues/new) still.
 
 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things.
 
-Currently building [Learn Anything](https://learn-anything.xyz), a place for learning any topic and sharing novel ideas.
+Currently building [Learn Anything](https://learn-anything.xyz), a place for learning any topic and sharing ideas.
 
 I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github) and sharing what I know as [articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles) and [wiki](https://wiki.nikitavoloboev.xyz).
 
