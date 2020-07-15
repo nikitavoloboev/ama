@@ -14,6 +14,8 @@ I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-g
 
 If you have any questions that you want to ask me, [please ask](../../issues/new). ♥️
 
+If you wish to ask your question anonymously, you can do it [here](https://rep.ly/nikitavoloboev).
+
 ## Guidelines
 
 - Ensure your question hasn't already been answered.
