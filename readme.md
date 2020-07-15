@@ -1,14 +1,12 @@
-# [Ask Me Anything](https://rep.ly/nikitavoloboev)
+# Ask Me Anything
 
-Ask any question you have or read past questions asked on [rep.ly](https://rep.ly/nikitavoloboev).
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+
+Ask any question you have or read past questions asked. I'll gladly answer any question. ♥️
+
+Aside from GitHub, you can also ask a question on [rep.ly](https://rep.ly/nikitavoloboev) or by simply mentioning me with `@` on [Twitter](https://twitter.com/nikitavoloboev).
 
 I think repl.ly has nicer interface to both read and ask questions & you can ask questions anonymously there if you like.
-
-## Past GitHub questions
-
-I've answered some 50+ questions on GitHub already that you can read [here](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc).
-
-You can also [ask questions here](../../issues/new) still.
 
 ## About me
 
@@ -17,8 +15,6 @@ I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki
 Currently building [Learn Anything](https://learn-anything.xyz), a place for learning any topic and sharing ideas.
 
 I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github) and sharing what I know as [articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles) and [wiki](https://wiki.nikitavoloboev.xyz).
-
-Please [ask any question you have](https://rep.ly/nikitavoloboev), I'll gladly answer them. ♥️
 
 ## Guidelines
 
