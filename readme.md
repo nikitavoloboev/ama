@@ -1,20 +1,24 @@
-# Ask Me Anything
+# [Ask Me Anything](https://rep.ly/nikitavoloboev)
 
-## [Ask a Question](../../issues/new) or [Read Questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+Ask any question you have or read past questions asked on [rep.ly](https://rep.ly/nikitavoloboev).
 
-**Anything means anything.** Work, programming, tech, personal life.. Whatever you want to know, this is the place to ask!
+I think repl.ly has nicer interface to both read and ask questions & you can ask questions anonymously there if you like.
+
+## Past GitHub questions
+
+I've answered some 50+ questions on GitHub already that you can read [here](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc).
+
+You can also [ask questions here](../../issues/new) still.
 
 ## About me
 
 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things.
 
-Currently building [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything) website for learning any topic on Earth as fast as possible.
+Currently building [Learn Anything](https://learn-anything.xyz), a place for learning any topic and sharing novel ideas.
 
-I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github) and sharing what I know in my [blog](https://wiki.nikitavoloboev.xyz/sharing/my-articles) and [wiki](https://wiki.nikitavoloboev.xyz).
+I love [solving problems with code](https://wiki.nikitavoloboev.xyz/sharing/my-github) and sharing what I know as [articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles) and [wiki](https://wiki.nikitavoloboev.xyz).
 
-If you have any questions that you want to ask me, [please ask](../../issues/new). ♥️
-
-If you wish to ask your question anonymously, you can do it [here](https://rep.ly/nikitavoloboev).
+Please [ask any question you have](https://rep.ly/nikitavoloboev), I'll gladly answer them. ♥️
 
 ## Guidelines
 
@@ -29,9 +33,3 @@ If you wish to ask your question anonymously, you can do it [here](https://rep.l
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
-
-## Favorite AMA's
-
-- [Sindre Sorhus](https://github.com/sindresorhus/ama) - Awesome dev. He also popularized this whole GitHub AMA thing.
-- [Artem Sapegin](https://github.com/sapegin/ama) - Does awesome front end things.
-- [Kent C. Dodds](https://github.com/kentcdodds/ama) - Does awesome React things.
