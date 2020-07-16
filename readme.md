@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-Ask any question you have or read past questions asked. I'll gladly answer any question. ♥️
+Ask any question you have or read past questions asked. I'll gladly answer anything. ♥️
 
 Aside from GitHub, you can also ask a question on [rep.ly](https://rep.ly/nikitavoloboev) or by simply mentioning me with `@` on [Twitter](https://twitter.com/nikitavoloboev).
 
