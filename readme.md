@@ -4,9 +4,7 @@
 
 Ask any question you have or read past questions asked. I'll gladly answer anything. ♥️
 
-Aside from GitHub, you can also ask a question on [rep.ly](https://rep.ly/nikitavoloboev) or by simply mentioning me with `@` on [Twitter](https://twitter.com/nikitavoloboev).
-
-I think repl.ly has nicer interface to both read and ask questions & you can ask questions anonymously there if you like.
+Aside from GitHub, you can also ask questions to me on [Twitter](https://twitter.com/nikitavoloboev).
 
 ## About me
 
