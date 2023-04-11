@@ -12,8 +12,6 @@ I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki
 
 Currently building [Learn Anything](https://learn-anything.xyz), a place for learning any topic and sharing ideas.
 
-I love [solving problems with code](https://wiki.nikiv.dev/sharing/my-github) and sharing what I know as [articles](https://wiki.nikiv.dev/sharing/my-articles) and [wiki](https://wiki.nikiv.dev).
-
 ## Guidelines
 
 - Ensure your question hasn't already been answered.
