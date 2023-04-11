@@ -8,7 +8,7 @@ Aside from GitHub, you can also ask questions to me on [Twitter](https://twitter
 
 ## About me
 
-I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikiv.dev/sharing/) things.
+I love [making]([https://nikitavoloboev.xyz/projects/](https://nikiv.dev/projects)) and [sharing](https://wiki.nikiv.dev/sharing/) things.
 
 Currently building [Learn Anything](https://learn-anything.xyz), a place for learning any topic and sharing ideas.
 
