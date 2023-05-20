@@ -8,7 +8,7 @@ Aside from GitHub, you can also ask questions to me on [Twitter](https://twitter
 
 ## About me
 
-I ️♥️ [making](https://nikiv.dev/projects) and [sharing](https://wiki.nikiv.dev/sharing/) things.
+I ️love [making](https://nikiv.dev/projects) and [sharing](https://wiki.nikiv.dev/sharing/) things.
 
 My current focus is on building [KusKus](https://kuskus.app) & [Learn Anything](https://github.com/learn-anything/learn-anything).
 
