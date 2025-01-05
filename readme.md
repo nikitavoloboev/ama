@@ -4,15 +4,13 @@
 
 Ask any question you have or read past questions asked. I'll gladly answer anything. ♥️
 
-Aside from GitHub, you can also ask questions to me on [X](https://twitter.com/nikitavoloboev).
+Aside from GitHub, you can also ask questions to me on [X](https://x.com/nikitavoloboev).
 
 ## About me
 
-I love [making](https://nikiv.dev/projects) and [sharing](https://wiki.nikiv.dev/sharing/) things.
+I love [making](https://docs.nikiv.dev/focus) and [sharing](https://docs.nikiv.dev/sharing) things.
 
-My current focus is on building [Learn Anything](https://github.com/learn-anything/learn-anything) & [KusKus](https://kuskus.app).
-
-I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know) in a [wiki](https://wiki.nikiv.dev).
+My current focus is on building [Learn Anything](https://github.com/learn-anything/learn-anything) & [SolBond](https://github.com/solbond/solbond).
 
 ## Guidelines
 
