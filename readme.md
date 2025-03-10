@@ -8,9 +8,7 @@ Aside from GitHub, you can also ask questions to me on [X](https://x.com/nikitav
 
 ## About me
 
-I love [making](https://docs.nikiv.dev/focus) and [sharing](https://docs.nikiv.dev/sharing) things.
-
-My current focus is on building [Learn Anything](https://github.com/learn-anything/learn-anything) & [SolBond](https://github.com/solbond/solbond).
+Can see what I am up to on my [site](https://nikiv.dev).
 
 ## Guidelines
 
